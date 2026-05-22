@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=WAHYU%20NUGROHO&fontAlign=50&fontAlignY=40&color=0:ff00ff,50:00f7ff,100:6e00ff&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
 
-# ⚡ CYBERPUNK ROBOTICS ENGINEER ⚡
+# ⚡ ROBOTICS ENGINEER ⚡
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=ROS2+Developer;Robot+Arm+Engineer;Cyberpunk+Fullstack+Developer;Embedded+Systems+Programmer;AI+%2B+Robotics+Enthusiast" />
 
@@ -12,7 +12,7 @@
 
 ---
 
-# 🧠 NEURAL PROFILE
+# NEURAL PROFILE
 
 ```bash
 > SYSTEM STATUS : ONLINE
@@ -26,16 +26,16 @@
 
 ### ⚡ CURRENT MISSION
 
-- 🔭 Building **ROS2 Robot Arm Systems**
-- 🌱 Learning **GraphQL, TypeScript & AI Robotics**
-- 🤝 Collaborating on **Open Source Cyber Projects**
-- 💬 Ask me about **React, Node.js, ROS2 & Linux**
-- ⚡ Fun fact: **I debug faster at midnight 🌙**
-- 📫 Contact: **wahyu.dev@gmail.com**
+- Building **ROS2 Robot Arm Systems**
+- Learning **GraphQL, TypeScript & AI Robotics**
+- Collaborating on **Open Source Cyber Projects**
+- Ask me about **React, Node.js, ROS2 & Linux**
+- Fun fact: **I debug faster at midnight 🌙**
+- Contact: **wahyu.dev@gmail.com**
 
 ---
 
-# 🌐 CYBER NETWORK
+# NETWORK
 
 <p align="left">
 <a href="https://github.com/wahyu">
@@ -54,9 +54,9 @@
 
 ---
 
-# ⚙️ TECH ARSENAL
+#  TECH ARSENAL
 
-## 🚀 FRONTEND
+##  FRONTEND
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,tailwind,html,css" />
 </p>
@@ -66,19 +66,19 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
-## 🤖 ROBOTICS & EMBEDDED
+##  ROBOTICS & EMBEDDED
 <p>
 <img src="https://skillicons.dev/icons?i=python,linux,raspberrypi,arduino,cpp" />
 </p>
 
-## 🛠️ CYBER TOOLS
+##  CYBER TOOLS
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,bash" />
 </p>
 
 ---
 
-# 📊 SYSTEM ANALYTICS
+#  SYSTEM ANALYTICS
 
 <div align="center">
 
@@ -90,7 +90,7 @@
 
 ---
 
-# 🔥 COMMIT STREAK
+#  COMMIT STREAK
 
 <div align="center">
 
@@ -100,9 +100,9 @@
 
 ---
 
-# 🤖 FEATURED PROJECTS
+#  FEATURED PROJECTS
 
-## ⚔️ ROS2 ROBOT ARM
+##  ROS2 ROBOT ARM
 ```yaml
 SYSTEM:
   Platform: Raspberry Pi
@@ -114,7 +114,7 @@ SYSTEM:
     - Multi-node Communication
 ```
 
-## 🌐 MERN CYBER APPS
+##  MERN CYBER APPS
 ```yaml
 STACK:
   Frontend: React + Tailwind
@@ -140,7 +140,7 @@ FUNCTION:
 
 ---
 
-# 🐍 CONTRIBUTION MATRIX
+#  CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -156,7 +156,7 @@ FUNCTION:
 
 ```diff
 + THANK YOU FOR VISITING MY PROFILE
-+ STAR MY PROJECTS IF YOU LIKE THEM ⭐
++ STAR MY PROJECTS IF YOU LIKE THEM 
 ```
 
 </div>
