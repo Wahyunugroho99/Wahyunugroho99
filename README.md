@@ -1,118 +1,163 @@
 <div align="center">
 
-# 💫 Hi 👋, I'm WAHYU NUGROHO
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=WAHYU%20NUGROHO&fontAlign=50&fontAlignY=40&color=0:ff00ff,50:00f7ff,100:6e00ff&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
 
-### 🚀 Robotics Engineer & Fullstack Developer from Indonesia 🇮🇩
+# ⚡ CYBERPUNK ROBOTICS ENGINEER ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=ROS2+Developer;Fullstack+Web+Developer;Robot+Arm+Engineer;Embedded+Systems+Enthusiast;MERN+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=ROS2+Developer;Robot+Arm+Engineer;Cyberpunk+Fullstack+Developer;Embedded+Systems+Programmer;AI+%2B+Robotics+Enthusiast" />
+
+<img src="https://komarev.com/ghpvc/?username=wahyu&label=PROFILE+VIEWS&color=ff00ff&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🧑‍💻 About Me
+# 🧠 NEURAL PROFILE
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJqZ2lqOWp1cDljdG15YTZvYzQ1ZmF4aWc0Y3I4bHljYTRqMnF6NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif">
+```bash
+> SYSTEM STATUS : ONLINE
+> USER           : WAHYU NUGROHO
+> ROLE           : ROBOTICS + FULLSTACK DEVELOPER
+> LOCATION       : INDONESIA
+> POWER LEVEL    : MAXIMUM
+```
 
-- 🔭 Currently building **ROS2 Robot Arm & MERN Stack Projects**
-- 🌱 Learning **GraphQL, TypeScript, Embedded Systems & AI**
-- 🤝 Looking for collaboration in **Open Source Robotics Projects**
-- 💬 Ask me about **React, Node.js, ROS2, Robotics & Linux**
-- ⚡ Fun fact: **I turn coffee ☕ into robots 🤖**
-- 📫 Reach me at: **wahyu.dev@gmail.com**
+<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+### ⚡ CURRENT MISSION
+
+- 🔭 Building **ROS2 Robot Arm Systems**
+- 🌱 Learning **GraphQL, TypeScript & AI Robotics**
+- 🤝 Collaborating on **Open Source Cyber Projects**
+- 💬 Ask me about **React, Node.js, ROS2 & Linux**
+- ⚡ Fun fact: **I debug faster at midnight 🌙**
+- 📫 Contact: **wahyu.dev@gmail.com**
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 CYBER NETWORK
 
 <p align="left">
-<a href="https://github.com/wahyu" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<a href="https://github.com/wahyu">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
-<a href="https://linkedin.com/in/wahyu" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<a href="https://linkedin.com/in/wahyu">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
-<a href="https://instagram.com/wahyu" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+<a href="https://instagram.com/wahyu">
+<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+</a>
+<a href="https://discord.com">
+<img src="https://skillicons.dev/icons?i=discord" height="55"/>
 </a>
 </p>
 
 ---
 
-# ⚙️ Tech Stack
+# ⚙️ TECH ARSENAL
 
-## 🚀 Frontend
+## 🚀 FRONTEND
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,tailwind,html,css" />
 </p>
 
-## ⚡ Backend
+## ⚡ BACKEND
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
-## 🤖 Robotics & Embedded
+## 🤖 ROBOTICS & EMBEDDED
 <p>
 <img src="https://skillicons.dev/icons?i=python,linux,raspberrypi,arduino,cpp" />
 </p>
 
-## 🛠️ Tools & Platforms
+## 🛠️ CYBER TOOLS
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,bash" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 SYSTEM ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wahyu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wahyu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&icon_color=00f7ff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 COMMIT STREAK
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=wahyu&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=wahyu&theme=radical&hide_border=true&background=0d1117&ring=ff00ff&fire=00f7ff&currStreakLabel=ffffff"/>
 
 </div>
 
 ---
 
-# 🤖 Featured Projects
+# 🤖 FEATURED PROJECTS
 
-## 🔹 ROS2 Robot Arm
-> 4 DOF Robot Arm using ROS2, Raspberry Pi, PCA9685, and Inverse Kinematics.
+## ⚔️ ROS2 ROBOT ARM
+```yaml
+SYSTEM:
+  Platform: Raspberry Pi
+  Framework: ROS2
+  Features:
+    - Inverse Kinematics
+    - PCA9685 Servo Control
+    - Real-time Motion
+    - Multi-node Communication
+```
 
-## 🔹 MERN Stack Applications
-> Fullstack modern web applications using React, Node.js, Express, and MongoDB.
+## 🌐 MERN CYBER APPS
+```yaml
+STACK:
+  Frontend: React + Tailwind
+  Backend: Node.js + Express
+  Database: MongoDB
+  Features:
+    - Realtime Dashboard
+    - Authentication
+    - API Integration
+```
 
-## 🔹 Embedded Automation Systems
-> STM32 & Raspberry Pi based automation and robotics projects.
+## ⚡ EMBEDDED SYSTEMS
+```yaml
+DEVICES:
+  - STM32
+  - Arduino
+  - Raspberry Pi
+FUNCTION:
+  - Automation
+  - Robotics
+  - Sensor Integration
+```
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 CONTRIBUTION MATRIX
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# ☕ Support Me
+# ☕ ENERGY BOOST
 
 <div align="center">
 
-If you like my projects and work, give them a ⭐ on GitHub!
+```diff
++ THANK YOU FOR VISITING MY PROFILE
++ STAR MY PROJECTS IF YOU LIKE THEM ⭐
+```
 
 </div>
 
@@ -120,8 +165,6 @@ If you like my projects and work, give them a ⭐ on GitHub!
 
 <div align="center">
 
-### 🚀 Keep Learning • Keep Building • Keep Innovating
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00f7ff,100:6e00ff&height=150&section=footer"/>
 
 </div>
