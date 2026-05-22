@@ -1,1 +1,44 @@
-# Hi 👋, I'm Wahyu Nugroho ### 🤖 Robotics & Fullstack Developer - 🔭 Building ROS2 Robot Arm Systems - 🌱 Learning DevOps & AI Robotics - ⚡ React, Node.js, MongoDB & Linux - 🐧 Embedded Systems Enthusiast --- ## 🚀 Tech Stack ![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,python,cpp,docker,mongodb,linux,arduino,git) --- ## 📊 GitHub Stats ![Wahyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wahyunugroho99&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyunugroho99&layout=compact&theme=tokyonight) --- ## 🔥 GitHub Streak ![GitHub Streak](https://streak-stats.demolab.com?user=Wahyunugroho99&theme=tokyonight) --- ## 🐍 Contribution Snake ![snake gif](https://raw.githubusercontent.com/Wahyunugroho99/Wahyunugroho99/output/github-contribution-grid-snake.svg) --- ## 📫 Connect with me - GitHub: https://github.com/Wahyunugroho99 - Instagram: https://instagram.com - LinkedIn: https://linkedin.com
+# Hi 👋, I'm Wahyu Nugroho
+
+### 🤖 Robotics & Fullstack Developer
+
+
+- 🔭 Building ROS2 Robot Arm Systems
+- 🌱 Learning DevOps & AI Robotics
+- ⚡ React, Node.js, MongoDB & Linux
+- 🐧 Embedded Systems Enthusiast
+
+---
+
+## 🚀 Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,python,cpp,docker,mongodb,linux,arduino,git)
+
+---
+
+## 📊 GitHub Stats
+
+![Wahyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wahyunugroho99&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyunugroho99&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Wahyunugroho99&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Wahyunugroho99/Wahyunugroho99/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Connect with me
+
+- GitHub: https://github.com/Wahyunugroho99
+- Instagram: https://instagram.com
+- LinkedIn: https://linkedin.com
+```
