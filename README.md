@@ -109,7 +109,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Wahyunugroho99/Wahyunugroho99/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
