@@ -12,6 +12,7 @@
 </p>
 
 </div>
+<img src="https://raw.githubusercontent.com/Wahyunugroho99/Wahyunugroho99/output/github-contribution-grid-snake-dark.svg"/>
 
 ---
 
